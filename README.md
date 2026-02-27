@@ -2,8 +2,8 @@
 
 ## Overview
 This project automates lead collection and qualification using n8n.
-![Uploading architecture.png…]()
 
+<img width="1413" height="965" alt="architecture" src="https://github.com/user-attachments/assets/1aa535a0-815c-4887-b63c-d1d4f5231738" />
 
 ## Features
 - Form submission trigger
